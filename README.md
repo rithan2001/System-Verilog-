@@ -3,6 +3,7 @@ Udemy
 
 ## Systemverilog-for-rtl-verification-part-1
 
+```ruby
 `timescale 1ns / 1ps
  // Using initial block to generate stimuli 
 module tb();
@@ -55,3 +56,4 @@ module tb();
   end
   
 endmodule
+```
